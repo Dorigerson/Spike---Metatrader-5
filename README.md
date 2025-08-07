@@ -1,0 +1,1 @@
+Este indicador tem como objetivo, identificar reversões ou continuação de tendência. É importante que seja usado junto com alguma estratégia de Média Mível, Estocástico, RSI ou outra de sua preferência.
