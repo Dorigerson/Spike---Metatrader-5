@@ -10,7 +10,7 @@ Este indicador tem como objetivo, identificar reversões ou continuação de ten
 ┌────────────────────────────────────────────────┐
 │           ☕ Apoie com um café ☕             │
 ├────────────────────────────────────────────────┤
-│    Se algum desses sinais Ichimoku ajudou      |   
+│           Se este indicador te ajudou          |   
 │                me mande um café                │
 │        ──────────────────────────────          │
 │                                                │  
